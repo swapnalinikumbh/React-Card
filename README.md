@@ -7,3 +7,11 @@ A simple React app (more like a component) which is a **card** with a _counter_ 
 - a '**reset**' button to reset the counter back to 0 (zero).
 
 The **_background-color_** of the card also changes with each click.
+
+#Install dependancy
+
+"npm i"
+
+#Start npm
+
+"nmp start"
